@@ -13,7 +13,7 @@ By focusing on fairness and transparency, Simple Lister aims to empower creators
 
 <p align="left">
     <p>Visit <a href="https://simplelister.com">Simple Lister</a></p>
-    <p>Follow us on <a href="https://www.linkedin.com/company/simple-lister">LinkedIn</a> | <a href="https://x.com/simplelister">X</a></p>
+    <p>Follow us on <a href="https://www.linkedin.com/company/simplelister">LinkedIn</a> | <a href="https://x.com/simplelister">X</a></p>
 </p>
 
 <h2>Features</h2>
